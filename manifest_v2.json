@@ -1,0 +1,89 @@
+{
+  "item": {
+    "id": "com.hazenotea.skymatch.watch",
+    "restype": "quick_app",
+    "name": "天空消消乐",
+    "description": "完全免费，由HazeNoTea制作的消消乐游戏。\n\n内置5种模式：分数模式、单色收集、双色收集、挑战模式、无尽模式，多个关卡：共166关（含挑战模式和无尽模式）。\n\n不同设备的性能表现不一样，本游戏实测RW6 > 10Pro > 10 > 9Pro > 9，想要更快反应速度可关闭动画。",
+    "preview": [
+      "media/大图.png",
+      "media/宣传图_1.png"
+    ],
+    "icon": "media/AI修复.png",
+    "cover": "media/大图.png",
+    "author": [
+      {
+        "name": "HazeNoTea",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.skymatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.skymatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.skymatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.skymatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.skymatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.skymatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.skymatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.skymatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.skymatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.skymatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.skymatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.skymatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.skymatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
